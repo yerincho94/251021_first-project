@@ -7,6 +7,7 @@ public class Main {
         // Eclipse -> sysout
         // IntelliJ -> sout
         System.out.println("Hello IntelliJ!");
+        System.out.println("이것은 인텔리제이에서의 첫 커밋이다.");
 
     }
 }
